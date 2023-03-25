@@ -12,16 +12,6 @@ building a logistic regression model to predict whether a student gets admitted 
   - [ 2.6 Learning parameters using gradient descent ](#2.6)
   - [ 2.7 Plotting the decision boundary](#2.7)
   - [ 2.8 Evaluating logistic regression](#2.8)
-- [ 3 - Regularized Logistic Regression](#3)
-  - [ 3.1 Problem Statement](#3.1)
-  - [ 3.2 Loading and visualizing the data](#3.2)
-  - [ 3.3 Feature mapping](#3.3)
-  - [ 3.4 Cost function for regularized logistic regression](#3.4)
-  - [ 3.5 Gradient for regularized logistic regression](#3.5)
-  - [ 3.6 Learning parameters using gradient descent](#3.6)
-  - [ 3.7 Plotting the decision boundary](#3.7)
-  - [ 3.8 Evaluating regularized logistic regression model](#3.8)
-  
   
  
 # Packages 
